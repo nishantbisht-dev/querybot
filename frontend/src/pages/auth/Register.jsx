@@ -65,7 +65,7 @@ const Register = () => {
               name="name"
               value={formData.name}
               onChange={handleChange}
-              placeholder="Nishant Bisht"
+              placeholder="Enter your name"
               className="soft-input w-full rounded-2xl px-4 py-3 outline-none"
               required
             />
